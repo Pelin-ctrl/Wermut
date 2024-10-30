@@ -1,9 +1,6 @@
 * {
     box-sizing: border-box;
 }
-* {
-    box-sizing: border-box;
-}
 
 body {
     max-width: 1440px;
@@ -26,11 +23,11 @@ body {
 .welcome p {
     font-size: 60px;
     font-weight: 400;
-    color: rgba(248, 248, 248, 1);
-    transform: translate(-170px,-1085px);
+    color: rgba(255, 153, 0, 1);
+    transform: translate(100px, -1010px); 
 }
 
-.WERMUT p {
+.wermut1 p {
     font-size: 90px;
     font-weight: 400;
     color: rgba(28, 36, 62, 1); 
