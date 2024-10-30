@@ -82,5 +82,10 @@ body {
     margin-top: 0px;
 }
 .glyphs{
-
+    font-size: 50px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1); 
+    position: relative; 
+    top: -999px; 
+    left: 235px;
 }
