@@ -10,3 +10,6 @@ body{
 .section-1 {
     display: flex;
 }
+.section-1 img{
+    width: 1500.6 px;
+}
