@@ -23,7 +23,7 @@ body {
 .welcome p {
     font-size: 60px;
     font-weight: 400;
-    color: rgba(255, 153, 0, 1);
+    color: rgba(255, 255, 255, 1);
     position: relative; 
     top: -1135px; 
     left: -175px; 
@@ -60,5 +60,13 @@ body {
 .section-3 img{
     width: 100%;
     max-width: 1440px;
-    margin-top: -170px;
+    margin-top: -51px;
+}
+.spooky {
+    font-size: 50px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1); 
+    position: relative; 
+    top: -999px; 
+    left: 235px;
 }
