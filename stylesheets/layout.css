@@ -24,7 +24,9 @@ body {
     font-size: 60px;
     font-weight: 400;
     color: rgba(255, 153, 0, 1);
-    transform: translate(100px, -1010px); 
+    position: relative; 
+    top: -1135px; 
+    left: -175px; 
 }
 
 .wermut1 p {
@@ -32,6 +34,17 @@ body {
     font-weight: 400;
     color: rgba(28, 36, 62, 1); 
     position: relative; 
-    top: -1010px; 
-    left: 350px; 
+    top: -1055px; 
+    left: 355px; 
+}
+.section-2 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.section-2 img {
+    width: 100%;
+    max-width: 1440px;
+    margin-top: -50px;
 }
