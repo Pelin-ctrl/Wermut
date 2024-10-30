@@ -1,24 +1,39 @@
 * {
     box-sizing: border-box;
 }
-body{
-    width: 1440px;
-    display: block;
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1440px;
     margin: 0 auto;
     font-family: "Wermut";
 }
+
 .section-1 {
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
-.section-1 img{
-    width: 1500.6px;
-    padding: 552px 184px;
+
+.section-1 img {
+    width: 100%;
+    max-width: 1440px;
 }
-.section-1 div:nth-of-type(1) p{
-    font-size: 90px;
-    font-weight: 400;
-}
-.section-1 div:nth-of-type(2) p{
+
+.welcome p {
     font-size: 60px;
     font-weight: 400;
+    color: rgba(248, 248, 248, 1);
+    transform: translate(-170px,-1085px);
+}
+
+.WERMUT p {
+    font-size: 90px;
+    font-weight: 400;
+    color: rgba(28, 36, 62, 1); 
+    margin-top: 0px;
+    transform: translate(350px, -1010px); 
 }
