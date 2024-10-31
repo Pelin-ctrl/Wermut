@@ -70,6 +70,14 @@ body {
     top: -999px; 
     left: 235px;
 }
+.personnal{
+    font-size: 100px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1); 
+    position: relative; 
+    top: -1260px; 
+    left: 235px;
+}
  
 .section-4{
     display: flex;
@@ -110,4 +118,86 @@ body {
     top: -999px; 
     left: 235px;
 }
+.section-6{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.section-6 img{
+    width: 100%;
+    max-width: 1440px;
+    margin-top: -53px;
+}
+.pott{
+    font-size: 50px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1); 
+    position: relative; 
+    top: -999px; 
+    left: 235px;
+}
+.section-7{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.section-7 img{
+    width: 100%;
+    max-width: 1440px;
+    margin-top: -103px;
+}
+.booo{
+    font-size: 50px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1); 
+    position: relative; 
+    top: -999px; 
+    left: 235px;
+}
+.booo2{
+    font-size: 50px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1); 
+    position: relative; 
+    top: -999px; 
+    left: 235px;
+}
+.section-8{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.section-8 img{
+    width: 100%;
+    max-width: 1440px;
+    margin-top: -103px;
+}
+.webb{
+    font-size: 55px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1); 
+    position: relative; 
+    top: -999px; 
+    left: 235px;
+}
+
+.section-9{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.section-9 img{
+    width: 100%;
+    max-width: 1440px;
+    margin-top: -57px;
+}
+.theend{
+    font-size: 50px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1); 
+    position: relative; 
+    top: -999px; 
+    left: 235px;
+}
+
 
