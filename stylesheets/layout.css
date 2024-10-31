@@ -50,7 +50,22 @@ body {
     max-width: 1440px;
     margin-top: -156px;
 }
-
+.personnal p{
+    font-size: 100px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1); 
+    position: relative; 
+    top: -1260px; 
+    left: 235px;
+}
+.spooky p {
+    font-size: 50px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1); 
+    position: relative; 
+    top: -999px; 
+    left: 235px;
+}
 
 .section-3 {
     display: flex;
@@ -62,22 +77,8 @@ body {
     max-width: 1440px;
     margin-top: -53px;
 }
-.spooky {
-    font-size: 50px;
-    font-weight: 400;
-    color: rgba(255, 255, 255, 1); 
-    position: relative; 
-    top: -999px; 
-    left: 235px;
-}
-.personnal{
-    font-size: 100px;
-    font-weight: 400;
-    color: rgba(255, 255, 255, 1); 
-    position: relative; 
-    top: -1260px; 
-    left: 235px;
-}
+
+
  
 .section-4{
     display: flex;
